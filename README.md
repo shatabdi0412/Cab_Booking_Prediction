@@ -1,4 +1,4 @@
-# Cab_Booking_Prediction
+# Predicting Cab Booking Demand
 
 This project was part of my PG Diploma in Artificial Intelligence and Machine Learning from NIT Warangal( jointly with Edureka )course
 
