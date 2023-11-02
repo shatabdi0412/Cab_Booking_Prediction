@@ -27,6 +27,32 @@ Total_booking - number of total booking
 
 # Model building:
 
+1. Visualize data using different visualizations to generate interesting insights.
+
+2. Outlier Analysis
+
+3. Missing value analysis
+
+4. Visualizing Total_booking Vs other features to generate insights
+
+5. Correlation Analysis
+   
+6. Visualizing Total_booking Vs other features to generate insights 
+
+Task2:
+
+1. Feature Engineering
+
+2. Model Building
+  (Different models regression analysis)
+
+3. Grid search
+
+4. Model Selection
+
+5. Testing the trained model on 'test.csv'
+
+
 # Dependencies:
 
 Python 3+, jupyter notebook, Pandas, Numpy, EDA, Sklearn, Supervised learning, Linear regression, Ensemble learning, Decision tree, Random forest, SVR, Bagging, Adaboost, Gradientboost
